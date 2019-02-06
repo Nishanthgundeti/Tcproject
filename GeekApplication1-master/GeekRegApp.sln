@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeekRegApp", "MvcTest2\GeekRegApp.csproj", "{689AC1C4-D5E0-465D-A005-BF01D2811CC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{689AC1C4-D5E0-465D-A005-BF01D2811CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{689AC1C4-D5E0-465D-A005-BF01D2811CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{689AC1C4-D5E0-465D-A005-BF01D2811CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{689AC1C4-D5E0-465D-A005-BF01D2811CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03C2F67C-982E-4D55-9379-7A39B4F8A19A}
+	EndGlobalSection
+EndGlobal
